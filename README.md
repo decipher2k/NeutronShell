@@ -17,4 +17,9 @@ Caveats:<br>
 -Some UWP apps don't show up in the taskbar<br>
 -Sometimes, Windows Explorer doesn't show up in the taskbar<br>
 -Antivirus programs will most likely show false positives. That's because the shell is doing system stuff, and I can't afford a software certificate ^^
-
+<br><br>
+Changelog:<br>
+-Fixed Windows Explorer icon<br>
+-Automatic language detection (en/ger)<br>
+-Reduced processor time<br>
+-Fixed context menu flickering when hovering above several taskbar items

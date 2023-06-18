@@ -15,7 +15,6 @@ To disable the shell and return to the Windows one, go to the Taskmanager (ctrl+
 <br>
 Caveats:<br>
 -Some UWP apps don't show up in the taskbar<br>
--Sometimes, Windows Explorer doesn't show up in the taskbar<br>
 -Antivirus programs will most likely show false positives. That's because the shell is doing system stuff, and I can't afford a software certificate ^^
 <br><br>
 Changelog:<br>

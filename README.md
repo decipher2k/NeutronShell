@@ -3,6 +3,8 @@ A Windows 10/11 Taskbar replacement<br>
 <br>
 Beta 1.1<br>
 Neutron Shell is a Taskbar replacement for Windows 10/11<br>
+It uses some of Cairo Shell's components for TrayIcons and AppBar.<br>
+https://github.com/cairoshell/cairoshell<br>
 <br>
 ![grafik](https://github.com/decipher2k/NeutronShell/assets/18600621/0e4c5011-a4fe-4988-be3a-3593de908cf7)
 <br>

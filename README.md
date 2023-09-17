@@ -15,9 +15,9 @@ To disable the shell and return to the Windows one, go to the Taskmanager (ctrl+
 <br>
 Caveats:<br>
 -Some UWP apps don't show up in the taskbar<br>
--Antivirus programs will most likely show false positives. That's because the shell is doing system stuff, and I can't afford a software certificate ^^
+-Antivirus programs will most likely show false positives. That's because the shell is doing system stuff, and I can't afford a software certificate ^^<br>
 -Has got to be started as Administrator for TrayIcons to work.<br>
- This would break OS security! I'm still working at fixing this.
+ This would break OS security! I'm still working at fixing this.<br>
 <br><br>
 Changelog:<br>
 -Fixed Windows Explorer icon<br>

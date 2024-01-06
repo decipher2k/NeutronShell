@@ -9,7 +9,7 @@ https://github.com/cairoshell/cairoshell<br>
 ![grafik](https://github.com/decipher2k/NeutronShell/assets/18600621/0e4c5011-a4fe-4988-be3a-3593de908cf7)
 <br>
 <br>
-Install the theme provided in the "releses" section to change the windows look&feel to a dark template.<br>
+Install the theme provided in the "releases" section to change the windows look&feel to a dark template.<br>
 (Simply doublecklick it)<br>
 Activate Darkmode in Windows<br>
 <br>

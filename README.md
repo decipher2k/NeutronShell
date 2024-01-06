@@ -24,6 +24,6 @@ Changelog:<br>
 -Automatic language detection (en/ger)<br>
 -Reduced processor time<br>
 -Fixed context menu flickering when hovering above several taskbar items
-
--Fixed TrayIcons
+<br><br>
+-Fixed TrayIcons<br>
 -Fixed error where DotNet Framework wasn't found
